@@ -1,0 +1,1 @@
+Testing the APNS connection. We are using [houston](https://github.com/nomad/houston) gem.
